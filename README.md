@@ -1,4 +1,4 @@
-# NLP_Assignment_1
+# Natural Language Processing Assignment 1
 
 Yulin Shen
 ys2542@nyu.edu
